@@ -74,4 +74,4 @@ Dando continuidade aos estudos em JS Puro da Danki Code, agora veremos alguns te
     - Código: [funcao-callback01.html](https://github.com/Motatom0101/JavaScript-Completo/blob/main/03_JS_moderno/04_funcao-callback01.html)
   
 
-Loading...
+
